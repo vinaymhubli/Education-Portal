@@ -1,2 +1,2 @@
 # Education-Portal
-# Outpur Result
+# Output Result
