@@ -1,8 +1,7 @@
 # Education-Portal
 
 # Output Result
-<p align="center">
- <img src="https://user-images.githubusercontent.com/112925756/188807413-298d790f-b623-41b3-a9c8-61e30e34ed1e.webm" width="350" height="400" />
+https://user-images.githubusercontent.com/112925756/188807413-298d790f-b623-41b3-a9c8-61e30e34ed1e.webm" 
 
 # Screenshot
 <p align="center">
