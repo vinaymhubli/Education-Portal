@@ -1,4 +1,4 @@
-# Education-Portal
+# Education👨‍🏫Portal
 Complete education portal of Boostmysite app development academy which redirect to the respective pages through url launcher
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/188905945-50361dbc-944e-4b52-85bf-ba65ae49e560.mp4
